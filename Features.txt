@@ -1,0 +1,6 @@
+init list
+delegate constructor
+friend class
+friend function
+template function
+namespace
